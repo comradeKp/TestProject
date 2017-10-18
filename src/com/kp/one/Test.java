@@ -7,6 +7,10 @@ public class Test {
 		System.out.println(":pokdwd");
 		System.out.println(":pokdwd");
 		System.out.println(":pokdwd");
+		System.out.println(":pokdwd");
+		System.out.println(":pokdwd");
+		System.out.println(":pokdwd");
+		System.out.println(":pokdwd");
 
 	}
 
